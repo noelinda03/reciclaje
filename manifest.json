@@ -1,7 +1,7 @@
 {
     "name": "Mapa de Centros de Reciclaje",
     "short_name": "Reciclaje",
-    "start_url": "/prueba.html",
+    "start_url": "/index.html",
     "display": "standalone",
     "background_color": "#ffffff",
     "theme_color": "#007bff",
